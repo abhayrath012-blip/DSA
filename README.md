@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/abhayrath012-blip/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhayrath012-blip/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/abhayrath012-blip/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/abhayrath012-blip/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhayrath012-blip/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Matrix
+|  |
+| ------- |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/abhayrath012-blip/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
