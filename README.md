@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhayrath012-blip/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/abhayrath012-blip/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhayrath012-blip/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -62,6 +63,7 @@
 | [0100-same-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/abhayrath012-blip/DSA/tree/master/0112-path-sum) |
@@ -92,6 +94,7 @@
 | [0100-same-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/abhayrath012-blip/DSA/tree/master/0112-path-sum) |
@@ -118,4 +121,12 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/abhayrath012-blip/DSA/tree/master/0257-binary-tree-paths) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
