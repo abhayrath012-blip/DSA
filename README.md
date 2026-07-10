@@ -68,6 +68,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/abhayrath012-blip/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhayrath012-blip/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/abhayrath012-blip/DSA/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/abhayrath012-blip/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhayrath012-blip/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/abhayrath012-blip/DSA/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -94,6 +96,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/abhayrath012-blip/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhayrath012-blip/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/abhayrath012-blip/DSA/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -103,4 +106,12 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/abhayrath012-blip/DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0226-invert-binary-tree) |
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/abhayrath012-blip/DSA/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/abhayrath012-blip/DSA/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
