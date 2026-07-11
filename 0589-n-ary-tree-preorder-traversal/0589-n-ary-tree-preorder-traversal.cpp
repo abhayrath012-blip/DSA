@@ -22,6 +22,7 @@ class Solution {
 public:
     vector<int> preorder(Node* root) {
         vector<int> ans;
+        if(root==NULL) return ans;
         preorder(root,ans);
         return ans;
 
