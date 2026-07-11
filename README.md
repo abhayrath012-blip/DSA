@@ -57,6 +57,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/abhayrath012-blip/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhayrath012-blip/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/abhayrath012-blip/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/abhayrath012-blip/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0563-binary-tree-tilt](https://github.com/abhayrath012-blip/DSA/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/abhayrath012-blip/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/abhayrath012-blip/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [0563-binary-tree-tilt](https://github.com/abhayrath012-blip/DSA/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/abhayrath012-blip/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/abhayrath012-blip/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
