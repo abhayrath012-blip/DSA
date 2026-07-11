@@ -21,22 +21,15 @@ public:
 class Solution {
 public:
     int maxDepth(Node* root) {
-        if(root==NULL) return 0;
-        int height=0;
-        queue<Node*> q;
-        q.push(root);
-        while(!q.empty()){
-            int size=q.size();
-            height++;
-            for(int i=0;i<size;i++){
-                Node* n=q.front();
-                q.pop();
-                for(Node* child:n->children){
-                    q.push(child);
-                }
-            }
-        }
-        return height;
+    if (!root) return 0;
+
+    int h = 0;
+
+    for (Node* child : root->children)
+        h = max(h, maxDepth(child));
+
+    return h + 1;
+
         
     }
 };
