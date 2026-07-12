@@ -99,6 +99,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/abhayrath012-blip/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/abhayrath012-blip/DSA/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/abhayrath012-blip/DSA/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/abhayrath012-blip/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/abhayrath012-blip/DSA/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/abhayrath012-blip/DSA/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/abhayrath012-blip/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/abhayrath012-blip/DSA/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/abhayrath012-blip/DSA/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -200,6 +203,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhayrath012-blip/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/abhayrath012-blip/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/abhayrath012-blip/DSA/tree/master/0938-range-sum-of-bst) |
 ## String Matching
 |  |
 | ------- |
