@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1331-rank-transform-of-an-array](https://github.com/abhayrath012-blip/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhayrath012-blip/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/abhayrath012-blip/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhayrath012-blip/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhayrath012-blip/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1331-rank-transform-of-an-array](https://github.com/abhayrath012-blip/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhayrath012-blip/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/abhayrath012-blip/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Counting
@@ -37,6 +39,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/abhayrath012-blip/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhayrath012-blip/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhayrath012-blip/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/abhayrath012-blip/DSA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
