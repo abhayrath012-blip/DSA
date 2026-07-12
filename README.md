@@ -95,6 +95,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhayrath012-blip/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/abhayrath012-blip/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhayrath012-blip/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/abhayrath012-blip/DSA/tree/master/0733-flood-fill) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/abhayrath012-blip/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -150,6 +152,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhayrath012-blip/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/abhayrath012-blip/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -166,6 +169,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhayrath012-blip/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/abhayrath012-blip/DSA/tree/master/0733-flood-fill) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/abhayrath012-blip/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## String
 |  |
 | ------- |
@@ -187,6 +191,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhayrath012-blip/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhayrath012-blip/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhayrath012-blip/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/abhayrath012-blip/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## String Matching
 |  |
 | ------- |
